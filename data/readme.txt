@@ -1,1 +1,8 @@
-kindly add link to dataset (if any) uploaded on gdrive.
+# Datasets Used
+
+###### Lenet
+	MNIST
+
+
+###### CNV
+	Cifar10
